@@ -199,8 +199,7 @@ const Row3 = () => {
         </Box>
         <Typography margin="0 1rem" variant="h6">
           Orci aliquam enim vel diam. Venenatis euismod id donec mus lorem etiam
-          ullamcorper odio sed. Ipsum non sed gravida etiam urna egestas
-          molestie volutpat et.
+          ullamcorper odio sed.
         </Typography>
       </DashboardBox>
     </>
