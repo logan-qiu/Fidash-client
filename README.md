@@ -29,7 +29,7 @@ Fidash offers several features to help you manage and visualize your financial d
 
 ## Demo
 
-[https://finance-dash-app.vercel.app/](https://www.fidash.loganqiu.org/)
+[https://fidash.loganqiu.org/](https://www.fidash.loganqiu.org/)
 
 ## Technologies
 
