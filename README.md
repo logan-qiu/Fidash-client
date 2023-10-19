@@ -59,4 +59,4 @@ Fidash is built using the following technologies:
 - **MongoDB**: MongoDB offers a flexible and scalable database solution, allowing us to store and manage the financial data efficiently.
 - **Express**: Express is a fast and minimalist web application framework for Node.js, providing a solid foundation for building the backend of the application.
 
-#### Disclaimer: The backend components are maintained in a distinct repository, following a microservice architecture approach. [[https://github.com/chanychi/fundwiz-server/](https://github.com/logan-qiu/fidash-backend](https://github.com/logan-qiu/fidash-backend))https://github.com/logan-qiu/fidash-backend
+#### Disclaimer: The backend components are maintained in a distinct repository, following a microservice architecture approach. https://github.com/logan-qiu/fidash-backend
